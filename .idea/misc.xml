@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/drawable-v24/ic_login.xml" value="0.1925" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.198" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_all_candidate.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_create_candidate.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_home.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_main.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_main2.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_result.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/activity_voting.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/candidate_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/layout/candidate_result_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OVS/app/src/main/res/menu/main_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
